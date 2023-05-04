@@ -29,7 +29,10 @@ textarea {
   color: #000000;
   border-top: 1px dashed #000000;
 }
-
+.future {
+  background-color: #8177dd;
+  color: white;
+}
 .past {
   background-color: #df8b2b;
   color: white;
@@ -40,10 +43,7 @@ textarea {
   color: white;
 }
 
-.future {
-  background-color: #8177dd;
-  color: white;
-}
+
 
 .saveBtn {
   border-left: 1px solid black;
